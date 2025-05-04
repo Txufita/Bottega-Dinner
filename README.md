@@ -1,27 +1,27 @@
-#Build out a Diner Menu using JavaScript  
+# Build out a Diner Menu using JavaScript  
 
-##Guide Tasks  
+## Guide Tasks  
 Build out a Diner menu in JAVASCRIPT. Here are your instructions to build that Diner.  
 
 **Bottega Diner**  
 
-*Have the Main Menu and a Sides Menu  
+* Have the Main Menu and a Sides Menu  
 
-*You get one entree and two side choices at regular cost.  
+* You get one entree and two side choices at regular cost.  
 
-*show them the entire menu (print out)  
+* show them the entire menu (print out)  
 
-*A user selects an entree.  
+* A user selects an entree.  
 
-*“Waitress” makes a comment based on their selection  
+* “Waitress” makes a comment based on their selection  
 
-*comment can either be a comparison of the two items, or random comment pulled from a comment vault.  
+* comment can either be a comparison of the two items, or random comment pulled from a comment vault.  
 
-*Tell them the price  
+* Tell them the price  
 
-*repeat the above options for side choices (comment and a price)  
+* repeat the above options for side choices (comment and a price)  
 
-*total up the cost  
+* total up the cost  
 
 **BONUS**  
 
