@@ -23,8 +23,3 @@ Build out a Diner menu in JAVASCRIPT. Here are your instructions to build that D
 
 * total up the cost  
 
-**BONUS**  
-
-Have breakfast, lunch, and dinner menu. Breakfast has different items, lunch and dinner have the same items but are different prices.  
-
-**BONUS**: Allow for item customization (how items are prepared, decide additional cost implications)  
